@@ -1,2 +1,3 @@
+
 # HelloGit
-first git program
+ This is my first github program.
